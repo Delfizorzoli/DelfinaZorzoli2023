@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.columna {
+    flex: 1;
+    height: 100vh;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    overflow: auto;
+    background-image: url("Diseño\ sin\ título.png");
+}
+.signup-container {
+    margin: 0 auto;
+    padding: 110px;
+    background-color: #b481ee;
+    border-radius: 2px;
+    align-items: center;
+    text-align: center;
+    width: 500px;
+    display: flex;
+}
